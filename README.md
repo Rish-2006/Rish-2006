@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&cache_seconds=0" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rish-2006&show_icons=true&theme=dark&cache_seconds=0" alt="Your GitHub Stats" />
 </p>
 <h3 align="center">📈 My GitHub Stats & Languages</h3>
 
