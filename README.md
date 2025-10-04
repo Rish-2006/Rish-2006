@@ -100,10 +100,11 @@ Here are some ideas to get you started:
   </a>
   &nbsp;&nbsp;&nbsp;
   
-  <a href="https://916380611970" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" width="40" height="40"/>
+  <a href="https://wa.me/916380611970" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  
   
   <a href="mailto:rishitedu5@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
