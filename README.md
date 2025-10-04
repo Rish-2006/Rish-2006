@@ -87,3 +87,26 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rish-2006&show_icons=true&theme=dark" alt="Your GitHub Stats"/>
 </p>
+### Connect with me 🤝
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+  <a href="YOUR_INSTAGRAM_PROFILE_URL" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  
+  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER_WITH_COUNTRY_CODE" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" width="40" height="40"/>
+  </a>
+  
+  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="left">
+  **WhatsApp/Contact:** +[Your Country Code] [Your Number]
+</p>
