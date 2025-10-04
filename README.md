@@ -81,8 +81,10 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+<h3 align="center">Profile Views</h3>
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{Rish-2006}/[count.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rish-2006&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Profile Views Counter" />
 </p>
 <h3 align="center">📊 My GitHub Stats</h3>
 
