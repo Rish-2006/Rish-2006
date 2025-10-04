@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 <hr>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{Rish-2006}/count.svg" alt="Profile Views"/>
+  <img src="https://profile-counter.glitch.me/{Rish-2006}/[count.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)" alt="Profile Views"/>
 </p>
 <h3 align="center">📊 My GitHub Stats</h3>
 
