@@ -87,6 +87,18 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rish-2006&show_icons=true&theme=dark" alt="Your GitHub Stats"/>
 </p>
+<h3 align="center">📈 My GitHub Stats & Languages</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rish-2006&show_icons=true&theme=dark&rank_icon=github" alt="Your GitHub Stats" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish-2006&layout=compact&theme=dark" alt="Your Top Languages" />
+</p>
+<h3 align="center">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rish-2006&theme=dark" alt="Your GitHub Streak" />
+</p>
 <h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
