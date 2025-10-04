@@ -111,6 +111,3 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  **WhatsApp/Contact:** +91 6380611970
-</p>
