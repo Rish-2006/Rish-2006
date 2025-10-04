@@ -87,26 +87,29 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rish-2006&show_icons=true&theme=dark" alt="Your GitHub Stats"/>
 </p>
-### Connect with me 🤝
+<h3 align="center">Connect with me 🤝</h3>
 
-<p align="left">
-  <a href="[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/rishit-dev-o-83975b363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank" rel="noreferrer">
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishit-dev-o-83975b363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   
-  <a href="[YOUR_INSTAGRAM_PROFILE_URL](https://www.instagram.com/rishit_dev.o?igsh=d29pYXB6Y2ZncjFj&utm_source=qr)" target="_blank" rel="noreferrer">
+  <a href="(https://www.instagram.com/rishit_dev.o?igsh=d29pYXB6Y2ZncjFj&utm_source=qr)" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   
-  <a href="https://wa.me/916380611970" target="_blank" rel="noreferrer">
+  <a href="https://916380611970" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   
   <a href="mailto:rishitedu5@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   **WhatsApp/Contact:** +91 6380611970
 </p>
