@@ -81,7 +81,9 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Rish-2006}/count.svg" alt="Profile Views"/>
+</p>
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
