@@ -101,12 +101,8 @@ Here are some ideas to get you started:
 </p>
 <h3 align="center">🔥 My Contribution Streak</h3>
 
-<!-- 
-This code pulls your stats from an external service and displays them as an image.
-Replace 'YOUR-GITHUB-USERNAME' with your actual username.
--->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true&background=00000000&cache_seconds=86400" alt="GitHub Streak Stats" />
 </p>
 <h3 align="center">Connect with me 🤝</h3>
 
