@@ -99,10 +99,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rish-2006&theme=dark" alt="Your GitHub Streak" />
 </p>
-<h3 align="center">🔥 My Contribution Streak</h3>
+<h3 align="center">🧠 Rishi's Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rish-2006&theme=dark&color=159957" alt="GitHub Contribution Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rish-2006&chart=line" alt="Contribution Line Graph" />
 </p>
 <h3 align="center">Connect with me 🤝</h3>
 
