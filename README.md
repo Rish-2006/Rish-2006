@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <h3 align="center">🧠 Rishi's Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rish-2006&chart=line" alt="Contribution Line Graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rish-2006&chart=line&theme=chartreuse&hide_border=true&background=00000000" alt="Contribution Line Graph" />
 </p>
 <h3 align="center">Connect with me 🤝</h3>
 
