@@ -86,7 +86,13 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rish-2006&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Profile Views Counter" />
 </p>
-
+<h3 align="center">📈 My GitHub Stats & Languages</h3>
+<p align="center">
+  <img src="https://rish-2006.vercel.app/api?username=Rish-2006&show_icons=true&theme=dark&cache_seconds=1800&v=1" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://rish-2006.vercel.app/api/top-langs/?username=Rish-2006&layout=compact&theme=dark&cache_seconds=1800&v=1" alt="Top Languages" />
+</p>
 <h3 align="center">🔥 GitHub Streak</h3>
 
 <p align="center">
