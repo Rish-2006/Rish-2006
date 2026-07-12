@@ -61,12 +61,8 @@ motto: "Push yourself, because no one else is going to do it for you."
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rish-2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rish-2006&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rish-2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish-2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -74,7 +70,7 @@ motto: "Push yourself, because no one else is going to do it for you."
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rish-2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rish-2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -82,7 +78,7 @@ motto: "Push yourself, because no one else is going to do it for you."
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rish-2006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Contribution Graph" />
+  <img src="https://vercel.app" alt="Activity Stats" />
 </p>
 
 ---
@@ -96,9 +92,6 @@ motto: "Push yourself, because no one else is going to do it for you."
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rish-2006/Rish-2006/output/github-snake-dark.svg"/>
   </picture>
 </p>
-
-> ⚠️ **To enable the snake animation**, add this GitHub Action to your repo:  
-> Create `.github/workflows/snake.yml` with the code provided in the instructions below ↓
 
 ---
 
