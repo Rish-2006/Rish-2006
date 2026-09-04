@@ -2,6 +2,7 @@
 <div align="center">   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishit%20Dev%20O&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate%20Coder%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=16"/>
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Rishit+Dev+O+%F0%9F%91%8B;Passionate+%26+Resilient+Coder+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Never+Give+Up+Attitude+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <p align="center">
